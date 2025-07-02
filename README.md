@@ -1,4 +1,5 @@
-APP LINK: https://essaygen.streamlit.app/
+APP LINK: https://essaygenie.streamlit.app/
+https://essaygen.streamlit.app/
 
 # LLM Essay Generator
 
