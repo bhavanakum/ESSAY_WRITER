@@ -1,0 +1,10 @@
+streamlit==1.46.0
+python-dotenv==1.1.1
+langchain==0.3.26
+langchain_community==0.3.26
+langgraph==0.5.0
+tavily-python==0.7.8
+rich>=10.14.0
+markdown-it-py>=2.2.0
+pygments>=2.13.0
+langchain-core==0.3.66  # For langchain_core.pydantic_v1x
